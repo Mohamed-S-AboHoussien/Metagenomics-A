@@ -186,7 +186,7 @@ We created 4 subgroups to distribute the analysis of the total 8 datasets. The d
 | Rishikesh Dash          | @Rishikesh     | rishikeshdash50@gmail.com                  | RB03 & RB04	          | NanoPlot, Importing data, GitHub |
 | Sneha Das               | @Snehabioinfo  | snneha26@gmail.com                         | RB03 & RB04	          | minimap2, Miniasm|
 | Priyanka Mishra         | @Priyanka      | priyankam9998@gmail.com                    | RB03 & RB04	          | Bandage image, Unicycler|
-| Mohamed S. AboHoussien              | @WandaMaximoff | isha.barve0@gmail.com                      | RB01 & RB02	          | GFA to Fasta, minimap2, Miniasm, Importing data|
+| Mohamed S. AboHoussien              | @mohamedS.abohoussien | mohamedsaidabo@gmail.com                      | RB01 & RB02	          | GFA to Fasta, minimap2, Miniasm, Importing data|
 | Morali Shah             | @morali        | shahmorali@gmail.com                       | RB01 & RB02	          | PlasFlow|
 | Akanksha Kulkarni       | @MoonlitRose99 | gmsbin15.akanksha.kulkarni@gnkhalsa.edu.in | RB01 & RB02	          | minimap2|
 | Kartik A. Sawant        | @Venomm        | kartikatulsawant14@gmail.com               | RB01 & RB02	          | Racon, CARD database|
